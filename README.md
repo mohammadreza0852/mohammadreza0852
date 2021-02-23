@@ -9,7 +9,7 @@ Some common questions i want to share :)
 Favoriate programming language? Python
 Where do I code? VS Code mostly
 </pre> 
-How did I learn? [here](https://www.google.com/) 
+How did I learn to code? [here](https://www.google.com/) 
 
 ### Skils
 <pre>
