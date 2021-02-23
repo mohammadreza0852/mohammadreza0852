@@ -8,8 +8,8 @@ Feel free to ask questions.
 Some common questions i want to share :)
 Favoriate programming language? Python
 Where do I code? VS Code mostly
-How did I learn? [here](https://www.google.com/) 
 </pre> 
+How did I learn? [here](https://www.google.com/) 
 
 ### Skils
 <pre>
